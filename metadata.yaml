@@ -1,0 +1,24 @@
+_repo: Tunnel-Engineering.-A-Museum-Treatment_39785
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39785-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Vogel, Robert M.
+    gutenberg_agent_id: '35769'
+    url: http://www.gutenberg.org/2009/agents/35769
+description: ''
+gutenberg_issued: '2012-05-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39785'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tunneling -- History'
+- !lcc 'TA'
+title: 'Tunnel Engineering: A Museum Treatment'
+url: http://www.gutenberg.org/ebooks/39785
